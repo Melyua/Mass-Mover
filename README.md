@@ -1,6 +1,13 @@
 Simple app that copies/moves pre-written files in the list config. Have some optional features and available in English, Ukrainian and Russian languages.
 
-How to use?
+HOW TO BUILD?
+
+1. Set solution config to "Release"
+2. Build solution
+3. ???
+4. Profit
+
+HOW TO USE?
 
 English:
 
