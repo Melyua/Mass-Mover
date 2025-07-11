@@ -4,37 +4,40 @@ HOW TO BUILD?
 
 1. Set solution config to "Release"
 2. Build solution
-3. ???
-4. Profit
 
 HOW TO USE?
 
 English:
 
-1. Open the file "config.txt" with an notepad app. There will be an example of the formatting: the path to the file, then a slash, and then the path to the final folder where the first file will be copied or moved.
-2. Save the config file.
-3. Open the "Mass Mover.exe".
-4. Select the desired language, copy or move the file, and press the start button.
-5. Wait a little until the end of the procedure.
-
-You can enter as many files and folders as you want into the config, but take into account the power of your computer.
+1. Open from release or create new config.txt and take it to the folder with your "Mass Mover.exe". Make sure the config is formatted correctly. For example:
+   D:\folder\file.jpg|D:\folder\backup_folder
+   D:\folder\file2.jpg|D:\folder\backup_folder
+   You can enter as many files and folders as you want into the config, but take into account the power of your computer.
+2. Open the "Mass Mover.exe".
+3. Select the desired language, copy or move the file, and press the start button.
+4. Wait a little until the end of the procedure. At the end of the procedure there should be a sound notification.
 
 Українська:
 
-1. Відкрийте файл "config.txt" за допомогою блокнота. Там буде приклад оформлення: шлях до файлу, потім риска, а потім шлях до кінцевої папки, куди буде скопійовано або переміщено перший файл.
-2. Збережіть файл конфігурації.
-3. Відкрийте "Mass Mover.exe".
-4. Виберіть потрібну мову, скопіювати чи перемістити ваші файли, а потім натисніть кнопку старту.
-5. Трохи зачекайте до завершення процедури.
+1. Відкрийте з релізу або створіть новий config.txt та перенесіть його до папки з вашим "Mass Mover.exe". Переконайтеся, що конфіг відформатовано правильно. Наприклад:
+   D:\folder\file.jpg|D:\folder\backup_folder
+   D:\folder\file2.jpg|D:\folder\backup_folder
+Ви можете ввести в конфіг скільки завгодно файлів і папок, але враховуйте потужність вашого комп'ютера.
+2. Відкрийте "Mass Mover.exe".
+3. Виберіть потрібну мову, скопіюйте або перемістіть файл і натисніть кнопку "Пуск".
+4. Трохи зачекайте до завершення процедури. Після завершення процедури має пролунати звукове сповіщення.
 
-Ви можете вписати в конфіг скільки завгодно файлів та папок, але враховуйте потужності вашого заліза.
+Російська:
 
-Русский:
+1. Откройте файл config.txt из релиза или создайте новый и поместите его в папку с вашим файлом "Mass Mover.exe". Убедитесь, что файл конфигурации имеет правильный формат. Например:
+   D:\folder\file.jpg|D:\folder\backup_folder
+   D:\folder\file2.jpg|D:\folder\backup_folder
+Вы можете добавить в файл конфигурации любое количество файлов и папок, но учитывайте мощность вашего компьютера.
+2. Откройте файл "Mass Mover.exe".
+3. Выберите нужный язык, скопируйте или переместите файл и нажмите кнопку запуска.
+4. Подождите немного до завершения процедуры. По завершении процедуры должно прозвучать звуковое уведомление.
 
-1. Откройте файл "config.txt" с помощью блокнота. Там будет пример оформления: путь к файлу, затем слэш, а затем путь к конечной папке, куда будет скопирован или перемещен первый файл.
-2. Сохраните файл конфигурации.
-3. Откройте "Mass Mover.exe".
-4. Выберите язык, скопируйте или переместите файлы, а затем нажмите кнопку старта.
-5. Немного подождите до конца процедуры.
+TODO LIST:
 
-Вы можете вписать в конфиг сколько угодно файлов и папок, но учитывайте мощности вашего ЭВМ.
+- Make it possible to edit the config in the program interface.
+- Some cool interface improvements.
